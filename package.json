@@ -1,0 +1,11 @@
+{
+  "name": "atividade-implementar",
+  "version": "1.0.0",
+  "main": "dist/src/aula01.js",
+  "scripts": {
+    "test": "tsc && node dist/tests/aula01.test.js && node dist/tests/aula02.test.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
